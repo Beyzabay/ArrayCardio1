@@ -78,4 +78,4 @@
         return obj;
       }, {});
 
-      console.log(transportation);
+      console.log(transportation); 
